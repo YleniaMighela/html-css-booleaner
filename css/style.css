@@ -5,4 +5,13 @@
 .frase_evidenziata{
     background-color: yellow;
 }
+
+#intestazione_tabella{
+    color:white;
+    background-color: rgb(5, 5, 238);
+
+}
     
+.sfondo_azzurro{
+    background-color: aquamarine;
+}
