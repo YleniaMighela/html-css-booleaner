@@ -1,7 +1,12 @@
 /* Titolo principale */
+h1{
+    font-size: 40px;  
+}
+
 #booleaner{
     color:blue;
 }
+
 .frase_evidenziata{
     background-color: yellow;
 }
@@ -9,7 +14,6 @@
 #intestazione_tabella{
     color:white;
     background-color: rgb(5, 5, 238);
-
 }
     
 .sfondo_azzurro{
