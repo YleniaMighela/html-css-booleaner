@@ -19,3 +19,13 @@ h1{
 .sfondo_azzurro{
     background-color: aquamarine;
 }
+
+header{
+    background-color: aqua;
+     background-image: url("../../html-css-booleaner/img/pattern.png");   
+}
+
+#logo{
+    width: 20%;
+    height: 500%;
+}
