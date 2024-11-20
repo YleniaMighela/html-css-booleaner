@@ -1,3 +1,16 @@
+/* Intestazione */
+#logo{
+    width:200px;
+    
+}
+
+header{
+    height:180px;
+    background-color: aqua;
+    background-image: url("../../html-css-booleaner/img/pattern.png"); 
+    }
+
+
 /* Titolo principale */
 h1{
     font-size: 40px;  
@@ -20,14 +33,8 @@ h1{
     background-color: aquamarine;
 }
 
-header{
-    background-color: aqua;
-     background-image: url("../../html-css-booleaner/img/pattern.png");   
-}
 
-#logo{
-    width
-}
+
 
 #titolo_footer{
    color:gray;
